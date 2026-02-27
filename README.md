@@ -1,1 +1,2 @@
-# Credit-Card-Fraud-Detection-System
+# Credit Card Fraud Detection System:
+“This project is an end-to-end machine learning web application for detecting credit card fraud. I generated transaction data using NumPy, trained a Random Forest classifier, and integrated the model into a Django backend. The system takes five transaction features, predicts fraud in real time, and stores results in a MySQL database. It demonstrates supervised learning, backend integration, and full-stack development.
